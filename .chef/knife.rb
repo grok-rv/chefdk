@@ -5,5 +5,5 @@ log_level                :info
 log_location             STDOUT
 node_name                "ramu-admin"
 client_key               "#{current_dir}/ramu-admin.pem"
-chef_server_url          "https://tharunappani6.mylabserver.com/organizations/ramu-linuxacad"
+chef_server_url          "https://example.com/organizations/ramu-linuxacad"
 cookbook_path            ["#{current_dir}/../cookbooks"]
